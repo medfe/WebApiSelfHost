@@ -1,0 +1,5 @@
+/.vs
+/packages
+obj
+*.csproj.user
+/WebApiSelfHost/bin
